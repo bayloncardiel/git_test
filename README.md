@@ -7,3 +7,6 @@ Otro Subtitulo
 Texto
 
 modificacion
+
+Referencias
+Indice
